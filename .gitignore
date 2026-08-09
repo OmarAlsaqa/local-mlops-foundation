@@ -1,0 +1,14 @@
+# Local Environment Variables & Secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Temporary files & node modules
+node_modules/
+capture_dashboard.js
+scratch/
+
+# OS metadata
+.DS_Store
+Thumbs.db
